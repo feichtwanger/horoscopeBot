@@ -1,0 +1,7 @@
+.vscode/
+CollectClientsFeedback/
+__pycache__/
+config.py
+echo.py
+learnTG.py
+utils.py
